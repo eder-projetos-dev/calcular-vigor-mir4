@@ -25,7 +25,7 @@ Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e 
 - ``Idle 3.10``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eder-projetos-dev/calcular-vigor-mir4/tree/master/src).
 
 ## Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa) 
