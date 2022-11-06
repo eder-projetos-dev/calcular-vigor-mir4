@@ -6,6 +6,8 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
+:small_blue_diamond: [Acesso ao projeto](#acesso-ao-projeto)
+
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
@@ -17,7 +19,7 @@ Coleção de ferramentas para o jogo MIR4:
 
 Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.<br>
 
-# Funcionalidades
+## Funcionalidades
 - `Funcionalidade 1`: Mostra o horário que terminará o vigor atual.
 - `Funcionalidade 2`: Mostra o horário que terminará o efeito das pílulas de 1h ou 30min.
 - `Funcionalidade 3`: Mostra o horário que terminará a praça mágica ou pico secreto.
@@ -40,6 +42,3 @@ Abrindo o projeto no `IDLE`:
 - ``Python 3.10`` :snake:
 - ``PySimpleGui``
 - ``IDLE 3.10``
-
-## Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eder-projetos-dev/calcular-vigor-mir4).
