@@ -1,7 +1,8 @@
 # MIR4 - Calcular Recuperação do Vigor
-## Estimar tempo de permanência na praça mágica e no pico secreto
 
-# Índice 
+Ferramenta simples para otimizar a utilização de pílulas de recuperação de vigor e de bilhetes da praça mágica e do pico secreto.
+
+## Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)* 
 * [Badges](#badges)
 * [Índice](#índice)
