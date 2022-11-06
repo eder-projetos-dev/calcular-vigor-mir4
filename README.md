@@ -15,7 +15,7 @@ Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e 
 # Acesso ao projeto
 ** Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final
 
-# 🛠️ Abrir e rodar o projeto
+# Abrir e rodar o projeto
 ** Apresente as instruções necessárias para abrir e executar o projeto
 
 ## Tecnologias utilizadas
@@ -24,21 +24,5 @@ Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e 
 - ``PySimpleGui``
 - ``Idle 3.10``
 
-## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eder-projetos-dev/calcular-vigor-mir4/tree/master/src).
-
-## Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa) 
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eder-projetos-dev/calcular-vigor-mir4).
