@@ -18,8 +18,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o `IDLE` que é um ambiente de desenvolvimento integrado para `Python`.
-
+Abrindo o projeto com o `IDLE`:
 - No `IDLE` clique no menu `File`, `Open`;
 - Procure o local onde você salvou o projeto e selecione o arquivo `main.pyw`.
 - Com esse arquivo aberto, pressione a tecla `F5` ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
