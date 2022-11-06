@@ -1,12 +1,23 @@
 # Bilhetes Mágicos e Pílulas de Vigor 
 
+## Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+
 ## Descrição do Projeto
 
 Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.<br>
 
 Coleção: Ferramentas para o jogo MIR4
 
-# Funcionalidades do projeto
+# Funcionalidades
 - `Funcionalidade 1`: Mostra o horário que terminará o vigor atual.
 - `Funcionalidade 2`: Mostra o horário que terminará o efeito das pílulas de 1h ou 30min.
 - `Funcionalidade 3`: Mostra o horário que terminará a praça mágica ou pico secreto.
