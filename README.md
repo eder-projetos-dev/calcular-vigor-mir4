@@ -13,9 +13,9 @@
 
 ## Descrição do Projeto
 
-Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.<br>
+Coleção de ferramentas para o jogo MIR4:
 
-Coleção: Ferramentas para o jogo MIR4
+Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.<br>
 
 # Funcionalidades
 - `Funcionalidade 1`: Mostra o horário que terminará o vigor atual.
@@ -29,7 +29,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos
 
 ## Abrir e rodar o projeto
 
-Abrindo o projeto com o `IDLE`:
+Abrindo o projeto no `IDLE`:
 - Clique no menu `File`, `Open`;
 - Procure o local onde você salvou o projeto e selecione o arquivo `main.pyw`.
 - Com o arquivo aberto, pressione a tecla `F5` ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
