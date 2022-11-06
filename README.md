@@ -38,14 +38,18 @@ Baixe e instale o `Python 3.10` para o seu sistema operacional.<br>
 [https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
 
 Caso precise instalar o gerenciador de pacotes `pip 22.3`:<br>
-`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`<br>
-`python get-pip.py`<br>
-
-Instale a biblioteca PySimpleGUI no Windows:<br>
-`pip install pysimplegui`<br>
-
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+```
+Instale a biblioteca `PySimpleGUI` no Windows:<br>
+```bash
+pip install pysimplegui
+```
 No Linux utilize esse comando:<br>
-`pip3 install pysimplegui`<br>
+```bash
+pip3 install pysimplegui
+```
 
 Mais informações:<br>
 [https://www.pysimplegui.org](https://www.pysimplegui.org)<br>
