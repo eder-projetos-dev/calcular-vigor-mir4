@@ -12,8 +12,9 @@ Coleção: Ferramentas para o jogo MIR4
 - `Funcionalidade 3`: Mostra o horário que terminará a praça mágica ou pico secreto.
 - `Funcionalidade 4`: Mostra o horário que terminará o efeito dos ingressos mágicos.
 
-# Acesso ao projeto
-** Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final
+## Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos-dev/calcular-vigor-mir4) ou [baixá-lo](https://github.com/eder-projetos-dev/calcular-vigor-mir4/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
