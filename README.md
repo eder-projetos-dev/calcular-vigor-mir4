@@ -1,6 +1,6 @@
 # MIR4 - Calcular Recuperação do Vigor
 
-Ferramenta simples para otimizar a utilização de pílulas de recuperação de vigor e de bilhetes da praça mágica e do pico secreto.
+Ferramenta que ajuda a otimizar a utilização de pílulas de recuperação de vigor e também pode ser utilizada para bilhetes da praça mágica e do pico secreto.
 
 ## Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)* 
