@@ -2,15 +2,15 @@
 
 ## Descrição do Projeto
 
-MIR4 TOOLS <br> 
+Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.<br>
 
-Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.
+Coleção: Ferramentas para o jogo MIR4
 
 # Funcionalidades do projeto
 - `Funcionalidade 1`: Mostra o horário que terminará o vigor atual.
-- `Funcionalidade 2`: Mostra o horário que terminará o vigor após consumir as pílulas de 1 hora ou de 30 minutos.
+- `Funcionalidade 2`: Mostra o horário que terminará o efeito das pílulas de 1h ou 30min.
 - `Funcionalidade 3`: Mostra o horário que terminará a praça mágica ou pico secreto.
-- `Funcionalidade 4`: Mostra o horário que terminará a praça mágica ou pico secreto após consumir ingressos.
+- `Funcionalidade 4`: Mostra o horário que terminará o efeito dos ingressos mágicos.
 
 # Acesso ao projeto
 ** Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final
