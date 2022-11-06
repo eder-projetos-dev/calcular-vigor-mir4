@@ -1,7 +1,10 @@
 # Bilhetes Mágicos e Pílulas de Vigor 
 
 ## Descrição do Projeto
-Ferramenta para o 🎮 MIR4: Serve para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.
+
+MIR4 TOOLS <br> 
+
+Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e de bilhetes da praça mágica.
 
 ## Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa) 
