@@ -5,15 +5,12 @@
 
 ## Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Acesso ao projeto](#acesso-ao-projeto)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)<br>
+:small_blue_diamond: [Funcionalidades](#funcionalidades)<br>
+:small_blue_diamond: [Acesso ao projeto](#acesso-ao-projeto)<br>
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)<br>
+:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)<br>
+:small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)<br>
 
 
 ## Descrição do Projeto
@@ -34,15 +31,15 @@ Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos
 
 ## Pré-requisitos
 
-Baixe e instale o `Python 3.10` para o seu sistema operacional.<br>
+Baixe e instale o Python 3.10 para o seu sistema operacional.<br>
 [https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
 
-Caso precise instalar o gerenciador de pacotes `pip 22.3`:<br>
+Caso precise instalar o gerenciador de pacotes pip versão 22.3 ou superior:<br>
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
-Instale a biblioteca `PySimpleGUI` no Windows:<br>
+Instale a biblioteca PySimpleGUI no Windows:<br>
 ```bash
 pip install pysimplegui
 ```
@@ -58,7 +55,7 @@ Mais informações:<br>
 
 ## Abrir e rodar o projeto
 
-Abrindo o projeto no `IDLE`:
+Abrindo o projeto no IDLE:
 - Clique no menu `File`, `Open`;
 - Procure o local onde você salvou o projeto e selecione o arquivo `main.pyw`.
 - Com o arquivo aberto, pressione a tecla `F5` ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
