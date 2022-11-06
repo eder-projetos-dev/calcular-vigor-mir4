@@ -29,6 +29,26 @@ Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e 
 
 Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos-dev/calcular-vigor-mir4) ou [baixá-lo](https://github.com/eder-projetos-dev/calcular-vigor-mir4/archive/refs/heads/main.zip).
 
+## Pré-requisitos
+
+Baixe e instale o `Python 3.10` para o seu sistema operacional.<br>
+[https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
+
+Caso precise instalar o gerenciador de pacotes `pip 22.3`:<br>
+`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`<br>
+`python get-pip.py`<br>
+
+Instale a biblioteca PySimpleGUI no Windows:<br>
+`pip install pysimplegui`<br>
+
+No Linux utilize esse comando:<br>
+`pip3 install pysimplegui`<br>
+
+Mais informações:<br>
+[https://www.pysimplegui.org](https://www.pysimplegui.org)<br>
+[https://pypi.org/project/PySimpleGUI/](https://pypi.org/project/PySimpleGUI/)<br>
+
+
 ## Abrir e rodar o projeto
 
 Abrindo o projeto no `IDLE`:
