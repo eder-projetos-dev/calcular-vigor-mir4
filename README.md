@@ -34,7 +34,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos
 Baixe e instale o Python 3.10 para o seu sistema operacional.<br>
 [https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
 
-Caso precise instalar o gerenciador de pacotes pip versão 22.3 ou superior:<br>
+Caso precise, instale o gerenciador de pacotes pip versão 22.3 (ou superior):<br>
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
