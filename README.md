@@ -12,8 +12,9 @@
 :small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)<br>
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)<br>
 
-
 ## Descrição do Projeto
+
+![calculadora-vigor-python-demo](https://user-images.githubusercontent.com/117411812/200425012-b8dad61e-65f6-4e52-9b23-f45021eb61ee.png)
 
 Coleção de ferramentas para o jogo MIR4:
 
