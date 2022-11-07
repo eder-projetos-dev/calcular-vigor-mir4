@@ -27,11 +27,11 @@ Ferramenta para otimizar o consumo de 💊 pílulas de recuperação de vigor e 
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/eder-projetos-dev/calcular-vigor-mir4) ou [baixá-lo](https://github.com/eder-projetos-dev/calcular-vigor-mir4/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte](https://github.com/eder-projetos-dev/calcular-vigor-mir4) ou [baixá-lo](https://github.com/eder-projetos-dev/calcular-vigor-mir4/archive/refs/heads/main.zip).
 
 ## Pré-requisitos
 
-Baixe e instale o Python 3.10 para o seu sistema operacional.<br>
+Baixe e instale o Python 3.10 no link abaixo: <br>
 [https://www.python.org/downloads/](https://www.python.org/downloads/)<br>
 
 Caso precise, instale o gerenciador de pacotes pip versão 22.3 (ou superior):<br>
@@ -58,7 +58,7 @@ Mais informações:<br>
 Abrindo o projeto no IDLE:
 - Clique no menu `File`, `Open`;
 - Procure o local onde você salvou o projeto e selecione o arquivo `main.pyw`.
-- Com o arquivo aberto, pressione a tecla `F5` ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
+- Com o arquivo aberto, pressione a tecla <kbd>F5</kbd> ou vá no menu `Run` e em seguida `Run Module`. :heavy_check_mark:
 
 
 ## Tecnologias utilizadas
